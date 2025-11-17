@@ -11,9 +11,9 @@
 
 using namespace std;
 
-const string ACCOUNT_FILE = "bank_accounts.dat";
-const string TRANSACTION_LOG = "bank_transactions.log";
-const string COUNTER_FILE = "account_counter.dat";
+const string ACCOUNT_FILE = "bank_accounts.txt";
+const string TRANSACTION_LOG = "bank_transactions.txt";
+const string COUNTER_FILE = "account_counter.txt";
 const int MIN_PASSWORD_LENGTH = 4;
 const double SAVINGS_MIN_BALANCE = 100.0;
 const double CURRENT_MIN_BALANCE = 500.0;
